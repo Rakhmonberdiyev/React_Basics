@@ -1,0 +1,13 @@
+.card {
+  margin: 20px;margin-left: 600px;
+  max-width: 300px;
+  border: 1px solid rgb(106, 14, 14);
+  padding: 20px;
+  border-radius:65%;
+  background-color: aqua;
+}
+h1{
+  color: #631010;
+  margin-left: 600px;
+}
+
